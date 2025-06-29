@@ -320,5 +320,11 @@
     "channel_type": 17,
     "input": 0.2857,
     "output": 0.5714
+  },{
+    "model": "THUDM/GLM-4-9B-0414",
+    "type": "tokens",
+    "channel_type": 17,
+    "input": 0.0714,
+    "output": 0.1429
   }
 ]
